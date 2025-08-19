@@ -1,5 +1,4 @@
-## Microfloat: Tiny, customizable floating formats with NumPy
-
+## Microfloat
 This repo provides a small Python module to define and use tiny floating-point formats ("microfloats") using NumPy. You can:
 
 - Define formats with custom sign/exponent/mantissa bit widths
